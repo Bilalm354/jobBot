@@ -518,3 +518,4 @@ bail@chrome://marionette/content/sync.js:237:64
 1579208447330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1579208448954	Marionette	INFO	Listening on port 61103
 1579208449044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://wac-cdn.atlassian.com/assets/build/js/react/app.min.js?cdnVersion=762, line 100: TypeError: imkt.utils.storage is undefined
